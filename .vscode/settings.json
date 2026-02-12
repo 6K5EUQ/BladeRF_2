@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "*.h": "c",
+        "*.cpp": "cpp",
+        "chrono": "cpp",
+        "thread": "cpp",
+        "mutex": "cpp",
+        "atomic": "cpp",
+        "vector": "cpp",
+        "deque": "cpp",
+        "complex": "cpp",
+        "fftw3.h": "c"
+    },
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "cmake.buildDirectory": "${workspaceFolder}/build",
+    "cmake.configureOnOpen": false,
+    "terminal.integrated.cwd": "${workspaceFolder}/build"
+}
